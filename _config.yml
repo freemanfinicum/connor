@@ -4,7 +4,7 @@ gems:
 
 # Exclude these files from your production _site
 permalink: /:title/
-name: Connor Reidhead Lives Beyond-
+name: Connor Reidhead Lives!
 sass:
   style: :expanded # You might prefer to minify using :compressed
 
@@ -19,7 +19,7 @@ kramdown:
     # Use existing pygments syntax highlighting css
     css_class: 'highlight'
 version: v1.2.0
-avatar: https://raw.githubusercontent.com/freemanfinicum/Edward/gh-pages/images/RealRiskTaker.jpg
+avatar: https://raw.githubusercontent.com/freemanfinicum/connor/master/images/ConnorArkansasFlag.jpg
 google_analytics:
 exclude:
 - Gemfile
