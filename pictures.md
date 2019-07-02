@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Connor
-permalink: /connor/
+title: Pictures
+permalink: /pictures/
 ---
 
 ## This is Connor Reidhead's Space
