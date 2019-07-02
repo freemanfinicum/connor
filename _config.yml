@@ -9,7 +9,7 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 url:
-baseurl: /Edward
+baseurl: /connor
 kramdown:
   # Use GitHub flavored markdown, including triple backtick fenced code blocks
   input: GFM
