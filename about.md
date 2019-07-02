@@ -4,11 +4,10 @@ title: About
 permalink: /about/
 ---
 
-___Written in the best King's English...___
 
-## We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common Defense, promote the general Welfare, and secure the Blessings of Liberty to Ourselves and our Posterity, do ordain and establish this Constitution for the United States of America...
+## "...Softer than the rain, but our rain wasn't any rain we were told it would be. The information given us was only to consume and they new that. Many thought I had thrown my life away but it was only to help others see that they could live theirs any way they chose to"  Connor Reidhead 3/4/2017...
 
 
 ___Contact Info___
 
-[ereidhead@gmail.com](mailto:ereidhead@gmail.com)
+[connorer1999@gmail.com](mailto:connorer1999@gmail.com)
