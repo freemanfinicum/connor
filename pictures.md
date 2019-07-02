@@ -6,7 +6,7 @@ permalink: /pictures/
 
 ## This is Connor Reidhead's Space
 
-!Connor Reidhead(/images/ConnorArkansasFlag.jpg "Connor Reidhead")
+![image](https://raw.githubusercontent.com/freemanfinicum/connor/master/images/ConnorArkansasFlag.jpg)
 
 
 
