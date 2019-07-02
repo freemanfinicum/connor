@@ -10,6 +10,6 @@ permalink: /about/
 ___Connor Reidhead 3/4/2017...___
 
 
-___Contact Info___
+__Contact Info__
 
 [connorer1999@gmail.com](mailto:connorer1999@gmail.com)
